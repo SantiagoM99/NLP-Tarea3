@@ -6,7 +6,6 @@
 .
 ├─ Notebooks/        # cuadernos de exploración, ejecución y evaluación
 ├─ Informe/          # informe escrito (PDF / material de entrega)
-├─ Resultados/       # salidas (TSV) de BSII y RRDV; métricas
 └─ README.md         # este documento
 ```
 
